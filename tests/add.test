@@ -1,6 +1,11 @@
 # a few tests to verify the add command, run with `shelltest -w`
 
 # {{{1 set-up
+Install
+/usr/share/doc/haskell-platform/README.Debian
+/usr/share/doc/haskell-platform/changelog.gz
+/usr/share/doc/haskell-platform/copyright
+
   rm -f cblrepo.db
 >>>= 0
 
